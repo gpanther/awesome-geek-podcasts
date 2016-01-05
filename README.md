@@ -82,6 +82,7 @@ A curated list of podcasts we like to listen to.
 * [The Linux Action Show](http://www.jupiterbroadcasting.com/tag/linux-action-show/) - Podcast about Linux and Open Source.
 * [The Loosely Coupled Podcast](http://looselycoupled.info/) - Jeff Carouth and Matt Frost combine their decades of experience as web developers to talk about developer life.
 * [The Music Makers](http://musicmakers.fm) - The best articles from around the web, curated and read to you.
+* [The Pi Podcast](http://thepipodcast.com/) - A show by members of the Raspberry Pi community
 * [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
 * [This Developer's Life](http://thisdeveloperslife.com/) - A podcast about developers and their lives.
 * [ThoughtWorks](https://soundcloud.com/thoughtworks) - A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
